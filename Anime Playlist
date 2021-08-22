@@ -1,4 +1,4 @@
-#EXTM3U
-#EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuTCmo8yZD_nhmt0-q99EW6vw6IVOzBJTlJh8LEQ=s900-c-k-c0x00ffffff-no-rj" group-title="ANIME",Aniplus
-http://210.210.155.35/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/a004afb90cb82b79aa75399df806306a.png" group-title="LIVE | ASTRO",ASTRO Prima HD
+1 #EXTM3U
+2 #EXTINF:-1 tvg-name="Aniplus" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLTuTCmo8yZD_nhmt0-q99EW6vw6IVOzBJTlJh8LEQ=s900-c-k-c0x00ffffff-no-rj" group-title="ANIME",Aniplus
+3 http://210.210.155.35/dr9445/h/h02/01.m3u8
+4 #EXTINF:-1 tvg-id="astroprima.my" tvg-name="ASTRO Prima HD" tvg-logo="http://tvmalaysia.cc:80/images/a004afb90cb82b79aa75399df806306a.png" group-title="LIVE | ASTRO",ASTRO Prima HD
